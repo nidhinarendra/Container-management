@@ -1,5 +1,5 @@
-# Container-management
-There are a lot of IoTs communicating with the containers on which applications are running. When these containers fail due to any reason, the IoTs must be able to migrate from the failed container to another working container seamlessly. In order to do this we need to create a framework called cMonitor. Components used are as below:
+# mesos-dockers
+There are a lot of IoTs communicating with the containers on which applications are running. When these containers fail due to any reason, the IoTs must be able to migrate from the failed container to another working container seamlessly. In order to do this we need to create a framework cMonitor.
 
 A. Containers to run the applications.
 
